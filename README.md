@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @FranklinOSullivan
+- 👀 I’m interested in Lighting and Audio
+- 🌱 I’m currently learning Engineering at the University of Auckland
+- 📫 How to reach me email: franklino0808@gmail.com
