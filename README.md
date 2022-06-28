@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @FranklinOSullivan
-- 👀 I’m interested in Lighting and Audio
-- 🌱 I’m currently learning Engineering at the University of Auckland
+- 👀 I’m interested in Software Development as well as computer architecture
+- 🌱 I’m currently learning Computer Systems Engineering at the University of Auckland
 - 📫 How to reach me email: franklino0808@gmail.com
