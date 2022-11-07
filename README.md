@@ -2,4 +2,4 @@
 - 👀 I’m interested in Software and Firmware development
 - 🌱 I’m currently learning Computer Systems Engineering at the University of Auckland
 - 📫 How to reach me email: franklino0808@gmail.com
-- Due to being connected to my University email for projects, view github.com/fosu562 to see commit history.
+- Due to being connected to my University email for projects, view github.com/fosu562 to see a more consistent commit history.
